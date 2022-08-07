@@ -10,7 +10,7 @@ informações relevantes de uma vidraria. Este projeto permitirá visualisar os 
 
 - Criação de formulários automáticos de forma que o operador responsável por analisar não utilize equipamentos com datas de validade de calibração e verificação vencidas;
 - Facilitar o trabalho da equipe de qualidade mantendo os registros sempre atualizados evitando assim não conformidades;
-- Facilirar na apresentação de documentação para auditorias;
+- Facilitar na apresentação de documentação para auditorias;
 - Evitar erros que poderiam ser causados por preenchimentos manual;
 - Possibilitar a conexão deste banco de dados com o programa de cálculo forncendo assim as informações corretas para os cálculos de incerteza;
 
@@ -23,10 +23,10 @@ Além disso outro aspecto pessoal seria a possibilidade de manusear, treinar e c
 Ensaio químico são ensaios realizados dentro de um laboratório afim de se avaliar a qualidade ou quantidade de determinado componente em um produto. Esses ensaios passam
 por rigorosos testes de validação, que se baseiam na obtenção e tratamento estatístico dos dados obtidos durante os testes com objetivo de avaliar se o método realmente
 atende ao que ele propõe. Por exemplo eu preciso saber quanto de açúcar tem uma bolacha (no caso seria zero porque bolacha é um soco na cara rsrs, brincadeira) ou biscoito
-para as pessoas que entendem do assunto. Primeiramente se avalia padrões semelhantes em seguida se aplica diretamente no biscoito o método e por meio de estatísca se compara
-se esse método é realemente aplicável para este fim, analisar quantidade de açúcar no biscoito.
+para as pessoas que entendem do assunto. Primeiramente se avalia padrões semelhantes, em seguida se aplica diretamente no biscoito o método e por meio de estatísca se compara
+se esse método é realemente aplicável para este fim que é analisar quantidade de açúcar no biscoito.
 Para se garantir a qualidade de um ensaio químico diversos fatores contibuem para se obter resultados mais precisos, como por exemplo temperatura, umidade, pureza de reagente,
-calibração dos um vidraria entre outros aspectos. 
+calibração das vidraria entre outros aspectos. 
 A calibração nada mais é que aferir a capacidade real de um equipamento utilizando padrões conhecidos em ambientes com fatores super-controlados. Por isso utilizar-se de
 equipamentos calibrados são de suma importância para garantir a qualidade do ensaio. E garantir que esses equipamentos se encontrem em condições ideais contibuirá diretamente
 na qualidade e eficiencia de um método analítico.
