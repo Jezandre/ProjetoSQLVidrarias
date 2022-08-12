@@ -221,12 +221,19 @@ hoje.
 
 No link abaixo você pode ver o código que utilizei para resolver esse problema
 
-https://github.com/Jezandre/ProjetoBIVidrarias/blob/main/06%20-%20Create%20dados%20alet%C3%B3rios%20Tabela%20Verificacao.sql
+https://github.com/Jezandre/ProjetoSQLVidrarias/blob/main/06%20-%20Create%20dados%20alet%C3%B3rios%20Tabela%20Verificacao.sql
+
+Fiz algumas alterações no processo colocando já a tabela de verificações. Coloquei de forma que o nome do Responsável variasse conforme a data de verificação fosse inserida pois em um laboratório qualquer pessoa que faz parte do escopa da qualidade pode inserir as novas verificações.
+
+Na imagem abaixo é possível visualizar como ficaram os dados depois de inseridos.
+
+<img src="https://github.com/Jezandre/ProjetoSQLVidrarias/blob/main/tABELAS%20ALIMENTADAS.png">
+
+Na imagem abaixo uma sequencia de inner join de forma que fosse possível visualizar os dados das tabelas unidas.
+
+<img src="https://github.com/Jezandre/ProjetoSQLVidrarias/blob/main/tABELAS%20VERIFICACAO.png">
 
 E com isso praticamente finalizo a construção do banco de dados. O próximo passo agora é criar visualizações no #powerBI pra deixar dinâmico a visulização destes 
 controles.
-
-
-
 
 
